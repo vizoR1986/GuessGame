@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessActivity</string>
+    <string name="hint_guess">Irja ide a tippjét</string>
+    <string name="button_guess">Tippelek</string>
+    <string name="number_larger">The number is bigger</string>
+    <string name="number_smaller">The number is smaller</string>
+    <string name="number_guessed">You guessed the number</string>
+    <string name="empty_guess">Please dont leave the tipp bar empty</string>
+</resources>
